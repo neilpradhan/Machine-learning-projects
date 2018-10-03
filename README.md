@@ -9,7 +9,7 @@ There are several experiments I had performed on data sets to learn while doing 
 3. Most common question of students applying for masters in usa whats more important gpa or gre ? I have attempted a binary classification for this problem
 
 
-4.Attempt to use basic technique of Natural language processing
+4. Attempt to use basic technique of Natural language processing
 
 
 
